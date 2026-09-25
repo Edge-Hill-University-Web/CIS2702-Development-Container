@@ -2,7 +2,7 @@
 
 A Visual Studio based Development Container for **CIS2702**.
 
-![Status - 2025-2026 Module Ready](https://img.shields.io/badge/Status-2025--2026_Module_Prep-2ea44f)
+![Status - 2026-2027 Module Ready](https://img.shields.io/badge/Status-2025--2026_Module_Prep-2ea44f)
 
 ![Supported On* - Windows, MacOS and Linux Distributions](https://img.shields.io/badge/Supported_On*-Windows_|_MacOS_|_Linux_Distributions-F43c91)
 
